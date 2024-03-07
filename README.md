@@ -8,7 +8,7 @@
 ## About Me 😇
 
 - 🎓 I am a Final year Student in Electronics and Communications Engineering @IIITDM Jabalpur Campus
-- 👀Currently exploring Block chain Technology.
+- 👀Currently exploring ML & Deep Learning Technology.
 - 🧭Proficient in Full Stack web Development.
 - Always trying to learn new Technologies
 
